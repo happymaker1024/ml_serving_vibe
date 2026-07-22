@@ -5,7 +5,9 @@ practice_준비.ipynb
 이 노트북을 .venv 가상환경에서 실행되도록 만들어줘
 
 
-model\linear_regression_model.pkl
+linear_regression 모델을 서빙하기 위해 model/ 폴더에 모델을 파일로 저장해줘
+데이터 스케일링도 자동화 될 수 있도록 파일로 함께 저장해줘
+
 app 폴더를 만들고, gradio로 모델을 csv 데이터 파일을 드레그앤드랍을 하면 예측값을 수행하는 엡을 만들어줘
 
 
